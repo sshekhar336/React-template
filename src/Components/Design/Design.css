@@ -1,0 +1,36 @@
+.design{
+    height: 100vh;
+    width: auto;
+    display: flex;
+}
+
+.firstHalf{
+    height: 100vh;
+    width: 50vw;
+    background: rgb(41, 41, 212);
+}
+
+.secondHalf{
+    background-image: url('../../Images/cliff.jpg');
+    height: 100vh;
+    width: 50vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.workDetails{
+    width: 19vw;
+    position: relative;
+    top: 35%;
+    left: 25%;
+    color: whitesmoke;
+}
+
+#bold{
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+.content{
+    line-height: 1.8;
+}

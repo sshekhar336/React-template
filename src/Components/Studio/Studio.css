@@ -1,0 +1,50 @@
+.studio{
+    height: 100vh;
+    width: auto;
+    background: rgb(41, 41, 212);
+    /* display: flex; */
+}
+
+.office1{
+    width: 30%;
+    height: 80vh;
+    position: absolute;
+    bottom: -375%;
+    left: 5%;
+}
+.office2{
+    position: absolute;
+    z-index: 5;
+    width: 17%;
+    height: 40vh;
+    bottom: -392%;
+    left: 25%;
+}
+
+.office3{
+    position: absolute;
+    z-index: 5;
+    width: 18%;
+    height: 40vh;
+    bottom: -392%;
+    left: 8%;
+}
+
+.contact{
+    position: relative;
+    width: 40%;
+    left: 50%;
+    top: 20%;
+    /* justify-content: center; */
+}
+
+.underline{
+    border-top: 1px solid whitesmoke;
+    height: 1px;
+    width: 10%;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 1.2em;
+}

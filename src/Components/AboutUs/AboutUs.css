@@ -1,0 +1,13 @@
+.aboutus{
+    height: 100vh;
+    width: auto;
+}
+
+.details{
+    /* color: rgb(0, 0, 0); */
+    width: 65vw;
+    position: relative;
+    text-align: center;
+    top: 35%;
+    left: 15%;
+}

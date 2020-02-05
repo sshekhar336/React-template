@@ -1,0 +1,26 @@
+.team{
+    height: 100vh;
+    width: auto;
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+}
+
+.teamImage{
+    height: 200px;
+}
+
+.eachImage{
+    padding: 10px 20px;
+}
+
+.teamdetails{
+    font-size: 1.2em;
+    margin: 0 28%;
+    width: 45%;
+    padding-top: 8px;
+}
