@@ -4,7 +4,7 @@ import './Team.css';
 
 export default function Team() {
     return (
-        <div className="team">
+        <div className="team" id="teampage">
             <div style={{padding: "5px"}}>Our team</div>
             <div className="teamdetails">
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry

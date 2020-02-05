@@ -3,7 +3,7 @@ import './Studio.css';
 
 export default function Studio() {
     return (
-        <div className="studio">
+        <div className="studio" id="studiopage">
             <div>
                 <div>
                     <img className="office1" src={require('../../Images/office1.jpg')} />
